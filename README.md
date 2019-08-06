@@ -12,4 +12,6 @@ The crime anf communities data set contains approximately 1994 variables and mor
 6. Final cleaned dataset has 1941 observation and 104 variables
 
 ### Statistical Analysis
-1. Model b
+
+
+### Model Interpretation
